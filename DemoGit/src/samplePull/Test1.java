@@ -11,6 +11,7 @@ public class Test1 {
 		
   System.out.println("Hello test program");
   System.out.println("This test on git repos");
+  System.out.println("test 1");
 	}
 
 }
