@@ -9,7 +9,7 @@ public class Test1 {
 	}
 	private static void displayMessage(){
 		
-  System.out.println("Hellochhotu program");
+  System.out.println("Hello chhotu program");
   System.out.println("This test on git repos");
   System.out.println("test 1");
 	}
